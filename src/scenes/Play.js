@@ -21,9 +21,9 @@ class Play extends Phaser.Scene {
         this.add.rectangle(5, 5, 630, 32, 0x7F75BD).setOrigin(0,0);
         this.add.rectangle(5, 443, 630, 32, 0x7F75BD).setOrigin(0,0);
         this.add.rectangle(5, 5, 32, 101, 0x7F75BD).setOrigin(0,0);
-        this.add.rectangle(603, 5, 32, 101, 0x717171).setOrigin(0,0);
-        this.add.rectangle(5, 400, 32, 60, 0x717171).setOrigin(0,0);
-        this.add.rectangle(603, 400, 32, 60, 0x717171).setOrigin(0,0);
+        this.add.rectangle(603, 5, 32, 101, 0x7F75BD).setOrigin(0,0);
+        this.add.rectangle(5, 400, 32, 60, 0x7F75BD).setOrigin(0,0);
+        this.add.rectangle(603, 400, 32, 60, 0x7F75BD).setOrigin(0,0);
         this.add.rectangle(5, 106, 32, 296, 0x3C3C3C).setOrigin(0,0);
         this.add.rectangle(603, 106, 32, 296, 0x3C3C3C).setOrigin(0,0);
 
