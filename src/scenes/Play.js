@@ -81,7 +81,7 @@ class Play extends Phaser.Scene {
         });
 
         //-------------------------
-        //animate targets & players
+        //animate targets and players
         this.p1Rocket.anims.play('player1');
         if (!game.singleplayer) {
             this.p2Rocket.anims.play('player2');
