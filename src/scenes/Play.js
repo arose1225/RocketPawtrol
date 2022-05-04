@@ -223,7 +223,6 @@ class Play extends Phaser.Scene {
             this.ship04.update();
 
             //update clock
-            //this code was gotten from discussions w/ Jameson D. and Jacob C. from this class
             this.timer.setText((game.settings.gameTimer/1000)-Math.floor(this.countdown.getElapsedSeconds()));
         }
 
