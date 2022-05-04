@@ -10,4 +10,3 @@ Points breakdown
 4. Create a new spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (25)
 5. Create new artwork for all of the in-game assets (rockets, spaceships, explosion) (25)
 6. Implement a simultaneous two-player mode (50)
-
