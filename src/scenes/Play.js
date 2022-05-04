@@ -163,7 +163,7 @@ class Play extends Phaser.Scene {
         this.gameOver = false;
 
         //-------------------
-        //timer configuration
+        //display timer configuration
         scoreConfig.fixedWidth = 0;
         this.countdown = this.time.delayedCall(game.settings.gameTimer, () => {
             scoreConfig.backgroundColor = '#717171';
